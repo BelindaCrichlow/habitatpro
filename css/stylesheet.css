@@ -1,0 +1,236 @@
+html, body {
+     margin:0;
+    padding:0;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+h1{
+	text-align:center;
+
+
+}
+header{
+    clear:both;
+    width:100%;
+    height:70px;
+    background-color:#0068ff;
+    opacity:0.9;
+    z-index:100;
+    position:fixed;
+    overflow:hidden;
+   
+}
+p{
+    text-align:left;
+}
+
+section{
+    width:100%;
+    margin: 0 auto;
+   clear:both;
+}
+
+
+
+#logo{
+    float:left;
+   
+}
+#logo img{
+    height:60px;
+    width:200px;
+    float:left;
+}
+nav{
+  text-align:center;
+  font-size:1.2em;
+  top: 17px;
+}
+
+nav li {
+  display: inline;
+  padding:10px 10px;
+}
+
+a{
+    text-decoration:none;
+    color:white;
+}
+a:hover{
+    color:red;
+    text-decoration:none;
+    
+}
+
+
+
+#donate{
+   margin:13px 5px;
+    height:auto;
+    width: auto;
+    color:#0068ff;
+    text-align:center;
+    float:right;
+    
+}
+button{
+    color:#0068ff;
+    background-color:#FFFFFF;
+}
+button a:hover{
+    color:red;
+}
+
+.carousel-caption{
+    background-color:#000;
+    color:#fff;
+    opacity:0.7;
+    text-align:center;
+    text-shadow: 2px 2px 2px #000;
+    padding-top:0;
+    border-radius:15px;
+    
+}
+
+#projects{
+    width:100%;
+   text-align:center;
+	padding:50px 0 50px 0;
+    clear:both;
+    background-color:#f7f7f7;
+    
+}
+
+
+#projects img{
+    border-radius:10px;
+    width:400px;
+    height:300px;
+}
+#about{
+    width:100%;
+	color:#000;
+	text-align:center;
+	padding:150px 0;
+	clear:both;
+    
+}
+#about span{
+    font-weight:bold;
+    font-size:1.2em;
+}
+
+#team{
+    padding:60px 10px 20px 10px;
+	text-align:center;
+	background-color:#f7f7f7;
+
+}
+#team img{
+    width:200px;
+    height:200px;
+    border-radius:100%;
+    box-shadow: 5px 5px 5px #ccc;
+}
+.bio{
+    	margin:20px 15px;
+    	width:30%;
+    	padding-top:5px;
+    	display:table-cell;
+}
+#volunteers{
+    width:100%;
+   padding:0 0 90px 0;
+    clear:both;
+    margin-bottom:0;
+    text-align:center;
+    background-color:#f7f7f7;
+}
+#volunteers h2, #team h2{
+    text-align:left;
+}
+#pic{
+    width:150px;
+    height:150px;
+    border-radius:100%;
+   box-shadow: 5px 5px 5px #ccc;
+}
+.linkedin{
+    width:25px;
+    height:25px;
+    text-align:center;
+}
+footer{
+     width:100%;
+     background-color:#0068ff;
+     height:auto;
+     color:#fff;
+     font-size:1em;
+     clear:both;
+}
+footer .container{
+    padding-top:10px;
+    padding-bottom:0;
+}
+#social{
+    margin:0 auto;
+    padding-top:10px;
+    float:right;
+}
+#social img{
+    border-radius:10px;
+    width:40px;
+    height:40px;
+    display:inline;
+    text-align:right;
+    
+    
+}
+#email{
+    float:right;
+}
+
+#up{
+    float:right;
+    margin-right:0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

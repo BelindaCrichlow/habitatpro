@@ -1,0 +1,403 @@
+
+html, body,hr{
+    margin:0;
+    padding:0;
+	max-width: 100%;
+    overflow-x: hidden;
+}
+
+/**************general**/
+.container-fluid2{
+	width:65% !important;
+	}
+.float-left{
+	float:left;
+}
+.float-rght{
+	flaot:right;
+	}	
+.align-left{
+	text-align:left !important;
+	}
+.text-sizeS{
+	font-size:1em !important;
+	}
+.text-sizeM{
+	font-size:1.5em !important;
+	}
+.text-zizeL{
+	font-size:2em !important;
+	}
+.inner-wrap{
+	width:60% !important;
+	}
+	
+.bg-color{
+		background-color:#fcfcfc;
+	}
+	
+
+.align{
+	display: table-cell;
+	}
+
+.active-link{
+	color:#FF6347;
+}
+
+section{
+    width:100%;
+    clear:both;
+	margin:0;
+	padding:0;
+}
+hr{
+	height:5px;
+	clear:both;
+	background-color:#005596;
+	}
+.bold{
+	font-weight:bolder;
+	}	
+.main-color{
+	 color:#005596;
+	}	
+/***********header*******************/
+header{
+	/*background-color:#0068ff;*/
+    clear:both;
+    width:100%;
+    margin: 0;
+	padding:0;
+	z-index:100;
+   
+}
+#donate{
+	margin-top: 9px;
+	paddding:5px 10px;
+	}
+.active-link{
+	color:#db3272;
+}
+
+#logo{
+    float:left;
+    width:10% ; 
+}
+
+#logo img{
+    height:55px;
+    width:100%;   
+}
+
+nav, ul{
+	
+	margin-left:10px !important;
+	}
+	
+	
+a{
+    text-decoration:none;
+    color:#005596;
+}
+a:hover{
+	color:#db3272;
+	text-decoration:none;
+	}
+ul.nav a:hover { background-color:transparent !important;color:#db3272 !important; text-decoration:none !important;}
+ul.nav a:focus { background-color:transparent !important; }
+ul.nav a:active { background-color:transparent !important; color:red !important; text-decoration:underline;}
+
+#social{
+	margin-top:12px;
+	}
+	
+#social img, #social2 img {
+	display:inline;
+	width:25px;
+	height:25px;
+	
+	}
+	
+.language{
+	font-size:.9em;
+	margin-top:15px;
+	
+	}
+
+	/********hero area**************/
+#heroArea{
+    width:100%;
+	color:white;
+	clear:both;
+	}
+	
+#jumboL{
+	height:70vh;
+	background-image:url(../images/jumboL.jpg);
+	/*width:40%;*/
+	float:left;
+	background-size:cover;
+	background-repeat:no-repeat;
+	max-width:100%;
+	max-height:100%;
+	}
+	
+#jumboR{
+	background-image:url(../images/jumboR.jpg);
+	height:70vh;
+	/*width:60%;*/
+	float:right;
+	background-repeat:no-repeat;
+	background-size:cover;
+	max-width:100%;
+	max-height:100%;
+	
+	}
+#jumboR p{
+	position:relative;
+	left:36%;
+	top:40%;
+	font-size:2em;
+	background:hsla(755, 95%, 40%, .5);
+	overflow:hidden;
+	filter:blur(10px);
+	padding:10px;
+}
+#jumboL p{
+	position:relative;
+	text-align:center;
+	top:75%;
+	font-size:1.5em;
+	background:hsla(755, 95%, 40%, .5);
+	overflow:hidden;
+	filter:blur(10px);
+	padding:5px;
+	
+	}
+.join{
+	padding:30px 0;
+	
+	}
+	
+.form-inline{
+	text-align:center;
+	}
+#exampleInputEmail2{
+	width:300px;
+	}
+
+
+/***********events and news****************/
+.heading{
+	color:white;
+	clear:both;
+	width:100%;
+	padding:5px 0;
+	}
+
+#events iframe{
+	width:100%;
+	height:75vh;
+	margin-bottom:30px;
+    margin-top:15px;
+}
+	
+#eventsNews{
+
+	margin-bottom:30px;
+}
+		
+#news{ 
+   height:100%;
+   height:75vh;
+
+}
+#news a{
+	color:black;
+	font-size:1em;
+	}
+
+#news a:hover{
+	color:#db3272 ;
+	
+}
+
+#news img{
+	width:60px;
+	height:60px;
+	}
+#news .media{
+	margin:0 !important;
+	}
+		
+#twitter-feed{
+	
+	max-width:100%;
+	}	
+/**********stories page**********/
+#stories iframe{
+	width:100%;
+	height:100%;
+}
+
+/*8****take action********/
+
+#takeAction{
+	margin-top:20px;
+	}
+	
+
+
+
+/************projecs*********/
+#projects{
+    width:100%;
+	margin:30px 0;
+    clear:both;
+}
+
+
+#projects img{
+    width:400px !important; 
+	    height:300px  !important;
+}
+
+
+/********about****************/
+#about{
+	margin: 30px 0;
+	
+	}
+	
+#about span, #social2 span{
+    font-weight:bold;
+    font-size:1.2em;
+}
+#about iframe{
+	float:left;
+	width:500px;
+	height:395px;
+}	
+#board .imgWrap, #team .imgWrap{
+	display:inline-block;
+	}
+	
+.pic{
+    width:200px;
+    height:200px;
+    /*border-radius:100%;
+   box-shadow: 5px 5px 5px #ccc;*/
+   z-index:-1;
+}
+.imgWrap {
+  position: relative;
+  height: 200px;
+  width: 200px;
+}
+.imgWrap a:link{
+	color:white;
+	}
+.imgWrap a:hover{
+	color:#db3272;
+	}
+.imgDescription {
+  position:absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(29, 106, 154, 0.72);
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.imgWrap:hover .imgDescription {
+	width:inherit;
+	height:75px;
+	top:125px;
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+
+/*******footer***********/
+footer{
+     width:100%;
+     
+     height:auto;
+     color:#000;
+     font-size:1em;
+     clear:both;
+	 margin:0;
+}
+
+
+footer{
+   margin-top:10px;
+    padding-bottom:0;
+}
+
+#email{
+    float:right;
+}
+
+#up{
+    float:right;
+    margin-right:0;
+	
+}
+
+#proximamente{
+	background-image:url(images/poximamemte.png);
+	background-size:contain;
+	background-position:center;
+	background-repeat:no-repeat;
+	height: 75vh;
+
+	
+	}
+
+
+
+/*************media queries**********************/
+@media(max-width: 768px){
+	#jumboR, #donate, #search, .language, #social {
+		display:none;
+		}
+	#jumboL{
+		width:100vw;
+		background-size:contain;
+		}
+	#jumboL img{ 	
+	max-width:100%;
+	
+}
+
+#exampleInputEmail2{
+	width:200px;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AutoPlay>true</AutoPlay>
+            <DescSliding>true</DescSliding>
+            <GalleryName>selfies</GalleryName>
+            <GalleryOptionID>1</GalleryOptionID>
+            <HoverStart>true</HoverStart>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEngine>jquery</ImageEngine>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>5. Mac</ImageTemplate>
+            <ImageTemplateName>Native</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <PublishFileName>/Users/belindacrichlow/Google Drive/websites/Habitat Pro/i4indigenous.html</PublishFileName>
+            <PublishIndex>i4indigenous.html</PublishIndex>
+            <PublishPath>/Users/belindacrichlow/Google Drive/websites/Habitat Pro</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelPaths>false</RelPaths>
+            <ResizeSpeed>7</ResizeSpeed>
+            <RightClick>true</RightClick>
+            <SlideShow>true</SlideShow>
+            <SlideShowDelay>4</SlideShowDelay>
+            <ThumbColumns>1</ThumbColumns>
+            <ThumbFitImage>true</ThumbFitImage>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>120</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbTemplate>Mac</ThumbTemplate>
+            <ThumbTemplateName>Native</ThumbTemplateName>
+            <ThumbWidth>160</ThumbWidth>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+        </Settings>
+        <Images>
+            <Image>
+                <url>/Users/belindacrichlow/Google Drive/websites/Habitat Pro/images/selfie2.jpg</url>
+                <title>selfie2</title>
+            </Image>
+            <Image>
+                <url>/Users/belindacrichlow/Google Drive/websites/Habitat Pro/images/selfie3.jpg</url>
+                <title>selfie3</title>
+            </Image>
+            <Image>
+                <url>/Users/belindacrichlow/Google Drive/websites/Habitat Pro/images/selfie4.jpg</url>
+                <title>selfie4</title>
+            </Image>
+            <Image>
+                <url>/Users/belindacrichlow/Google Drive/websites/Habitat Pro/images/selfie5.jpg</url>
+                <title>selfie5</title>
+            </Image>
+            <Image>
+                <url>/Users/belindacrichlow/Google Drive/websites/Habitat Pro/images/selfie6.jpg</url>
+                <title>selfie6</title>
+            </Image>
+            <Image>
+                <url>/Users/belindacrichlow/Google Drive/websites/Habitat Pro/images/selfie7.jpg</url>
+                <title>selfie7</title>
+            </Image>
+            <Image>
+                <url>/Users/belindacrichlow/Google Drive/websites/Habitat Pro/images/selfie7.png</url>
+                <title>selfie7</title>
+            </Image>
+            <Image>
+                <url>/Users/belindacrichlow/Google Drive/websites/Habitat Pro/images/selfie8.png</url>
+                <title>selfie8</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
